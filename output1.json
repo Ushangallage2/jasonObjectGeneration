@@ -6,11 +6,11 @@
   "Status" : 0,
   "AppVersion" : "1.1.5.2",
   "DbVersion" : "6.6.59",
-  "Terminal" : "1250",
-  "Location" : "123",
+  "Terminal" : "456",
+  "Location" : "13",
   "DetailList" : [ {
     "Status" : 0,
-    "SyncKey" : "INVOICE#1250S0000001",
+    "SyncKey" : "INVOICE#456S0000001",
     "SyncType" : "SyncInvoiceHolder",
     "SyncValue" : {
       "batchInventorItems" : [ ],
@@ -103,7 +103,7 @@
         "customer" : 0,
         "movementdate" : "2024-12-03T18:01:49",
         "transactioncode" : "PYI031220240601493",
-        "transactionnumber" : "1250S0000001"
+        "transactionnumber" : "456S0000001"
       } ],
       "stockbalances" : [ {
         "totalquantity" : -1,
@@ -212,7 +212,7 @@
         "exclusive_tax_applicable_amt" : 0,
         "standing_instruction" : "",
         "netsalesamount" : 30,
-        "invoicenumber" : "1250S0000001",
+        "invoicenumber" : "456S0000001",
         "totalconsultant" : 0,
         "servicechargepercentage" : 0,
         "e_invoice_type" : -1,
@@ -246,11 +246,11 @@
   "Status" : 0,
   "AppVersion" : "1.1.5.2",
   "DbVersion" : "6.6.59",
-  "Terminal" : "1250",
-  "Location" : "123",
+  "Terminal" : "456",
+  "Location" : "13",
   "DetailList" : [ {
     "Status" : 0,
-    "SyncKey" : "INVOICE#1250S0000002",
+    "SyncKey" : "INVOICE#456S0000001",
     "SyncType" : "SyncInvoiceHolder",
     "SyncValue" : {
       "batchInventorItems" : [ ],
@@ -343,7 +343,7 @@
         "customer" : 0,
         "movementdate" : "2024-12-03T18:01:49",
         "transactioncode" : "PYI031220240601493",
-        "transactionnumber" : "1250S0000002"
+        "transactionnumber" : "456S0000001"
       } ],
       "stockbalances" : [ {
         "totalquantity" : -1,
@@ -452,7 +452,7 @@
         "exclusive_tax_applicable_amt" : 0,
         "standing_instruction" : "",
         "netsalesamount" : 30,
-        "invoicenumber" : "1250S0000002",
+        "invoicenumber" : "456S0000001",
         "totalconsultant" : 0,
         "servicechargepercentage" : 0,
         "e_invoice_type" : -1,

@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="sync:jar2">
+    <output-path>$PROJECT_DIR$/../../sync-2/jasongenerator</output-path>
+    <root id="archive" name="sync.jar">
+      <element id="module-output" name="sync" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/2.0.0/slf4j-api-2.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-annotations/2.15.0/jackson-annotations-2.15.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-core/2.15.0/jackson-core-2.15.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/slf4j/slf4j-simple/2.0.0/slf4j-simple-2.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.15.0/jackson-databind-2.15.0.jar" path-in-jar="/" />
+      <element id="dir-copy" path="$PROJECT_DIR$/templates" />
+    </root>
+  </artifact>
+</component>
